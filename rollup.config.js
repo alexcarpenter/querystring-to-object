@@ -7,7 +7,7 @@ export default [
   {
     input: 'src/main.js',
     output: {
-      name: 'querystring-to-object',
+      name: 'querystringToObject',
       file: pkg.browser,
       format: 'umd',
     },
