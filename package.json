@@ -1,7 +1,7 @@
 {
   "name": "@alexcarpenter/querystring-to-object",
   "description": "Convert a query string into an object",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "dist/querystring-to-object.cjs.js",
   "module": "dist/querystring-to-object.esm.js",
   "browser": "dist/querystring-to-object.umd.js",
