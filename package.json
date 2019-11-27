@@ -1,6 +1,6 @@
 {
   "name": "@alexcarpenter/querystring-to-object",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "dist/querystring-to-object.cjs.js",
   "module": "dist/querystring-to-object.esm.js",
   "browser": "dist/querystring-to-object.umd.js",
