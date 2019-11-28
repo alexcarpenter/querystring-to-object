@@ -14,7 +14,7 @@ $ npm i @alexcarpenter/querystring-to-object
 import querystringToObject from '@alexcarpenter/querystring-to-object';
 
 const qs = '?page=2&size=10&total=200';
-querystringToObject(qs); // { 'page': '2', 'size': '10', 'total': '200' }
+querystringToObject(qs); //=> { page: '2', size: '10', total: '200' }
 ```
 
 ## Related
