@@ -17,6 +17,10 @@ const qs = '?page=2&size=10&total=200';
 querystringToObject(qs); // { 'page': '2', 'size': '10', 'total': '200' }
 ```
 
+## Related
+
+- [object-to-querystring](https://github.com/alexcarpenter/object-to-querystring)
+
 ## License
 
 [MIT](LICENSE).
